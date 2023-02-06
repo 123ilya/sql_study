@@ -1,0 +1,1 @@
+SELECT "Hellow world!";
